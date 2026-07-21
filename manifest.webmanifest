@@ -9,13 +9,13 @@
   "theme_color": "#0d47a1",
   "icons": [
     {
-      "src": "icon-192-tperm.png",
+      "src": "icon-192-TPERM.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "icon-512-tperm.png",
+      "src": "icon-512-TPERM.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
